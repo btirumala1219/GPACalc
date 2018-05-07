@@ -3,9 +3,13 @@ Small GPA calculating tool to determine semester gpa.
 Follows---
 
 A: 4
+
 A-: 3.75
+
 B+: 3.25
+
 B: 3
+
 B-: 2.75
 C+: 2.25
 C: 2
