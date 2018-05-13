@@ -1,5 +1,5 @@
 # GPACalc
-Small GPA calculating tool to determine semester gpa.
+Small GPA calculating tool to determine semester gpa. UCF scale.
 Follows--->
 
 A: 4
