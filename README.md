@@ -28,3 +28,4 @@ F: 0
 
 ## TODO
 Round off values to two decimal places
+Be able to change cutoff values
