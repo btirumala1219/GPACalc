@@ -25,7 +25,3 @@ D: 1
 D-: 0.75
 
 F: 0
-
-## TODO
-Round off values to two decimal places
-Be able to change cutoff values
